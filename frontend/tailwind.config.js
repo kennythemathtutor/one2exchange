@@ -8,4 +8,8 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  purge: {
+    preserveHtmlElements: false,
+    content: ['./src/**/*.html'],
+  },
 }
