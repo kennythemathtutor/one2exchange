@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/symfoni/hardhat-react-boilerplate#readme",
   "dependencies": {
-    "@sushiswap/sdk": "^5.0.0-canary.56",
+    "@sushiswap/sdk": "^5.0.0-canary.72",
     "dotenv": "^10.0.0",
     "eip-712": "^0.4.3",
     "web3modal": "^1.9.4"
